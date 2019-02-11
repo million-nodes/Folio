@@ -1,2 +1,2 @@
-# Folio
-A story telling app for kids
+# ffolio
+This is a future of nanny. Storyteller for babies.
